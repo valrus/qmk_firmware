@@ -16,7 +16,7 @@
 #pragma once
 
 #include "quantum.h"
-#define ___ KC_NO
+#define _X_ KC_NO
 
 #ifdef KEYBOARD_atreus_astar
     #include "astar.h"
